@@ -1,0 +1,5 @@
+New Test Started TestCase01
+^2023-02-18T20:05:36.203744 |  Start TestCase  |  Test Case 1: Verify User Registration | DONE
+H2023-02-18T20:05:43.981314 |  Test Step  |  User Perform Login:  | PASS
+_2023-02-18T20:05:44.405304 |  End TestCase  |  Test Case 1: Verify user Registration :  | PASS
+ onTestSuccess Method TestCase01
